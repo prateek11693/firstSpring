@@ -10,6 +10,7 @@ public class FirstxApplication {
 		SpringApplication.run(FirstxApplication.class, args);
 		System.out.println("hello");
 		System.out.println("hello change");
+		System.out.println("hello change two");
 		
 	}
 
